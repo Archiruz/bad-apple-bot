@@ -10,8 +10,8 @@ Some modules are needed to run the programs, they are:
 	- Pillow
 	- OpenCV
 
-pip install -U discord.py
-pip install -U Pillow
+pip install -U discord.py\
+pip install -U Pillow\
 pip install -U opencv-python
 
 Step by step (Assuming you have set up the bot and bot token is ready)
@@ -24,10 +24,10 @@ Step by step (Assuming you have set up the bot and bot token is ready)
 NP: I don't recommend using repl.it or Heroku as the frame extraction process will generate more than 6K images, the sites can't really handle it
 host it locally using shell, you have to install python first tho
 
-!!!CURRENT "ISSUE"!!!
-The bot will do similar thing as original video but it has problem with braille blank character
-the right edges will not be as smooth as the ones you look at the video cuz blank braille character's width is shorter somehow
-but it works nonetheless
+CURRENT "ISSUE"
+The bot will do similar thing as original video but it has problem with braille blank character\
+the right edges will not be as smooth as the ones you look at the video cuz blank braille character's width is shorter somehow\
+but it works nonetheless\
 I've tried some workaround like using whitespace and other blank character but the bot will think it sends empty message
 
 ![Screenshot](https://cdn.discordapp.com/attachments/804949820690137138/805407906689187850/unknown.png)
