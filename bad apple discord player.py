@@ -7,8 +7,6 @@ CLIP_FRAMES = 6571
 CLIP_LENGTH = 219.0666
 
 ASCII_CHARS = ['⠀','⠄','⠆','⠖','⠶','⡶','⣩','⣪','⣫','⣾','⣿']
-ASCII_CHARS.reverse()
-ASCII_CHARS = ASCII_CHARS[::-1]
 
 WIDTH = 60
 
