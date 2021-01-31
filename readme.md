@@ -4,10 +4,10 @@ You should put the video to frames program in a folder as it puts every frame in
 
 You might have to change some paths in the files
 
-Some modules are needed to run the programs, they are:
-	- Discord
-	- Time
-	- Pillow
+Some modules are needed to run the programs, they are:\
+	- Discord\
+	- Time\
+	- Pillow\
 	- OpenCV
 
 pip install -U discord.py\
